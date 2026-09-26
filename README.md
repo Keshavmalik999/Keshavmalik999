@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Malik</h1>
 
-<h3 align="center">AI/ML Engineer in Progress • Python • Machine Learning • Software Development</h3>
+<h3 align="center">Aspiring AI/ML Engineer | Python | Machine Learning</h3>
 
 <p align="center">
   <a href="https://github.com/keshavmalik999">
@@ -10,20 +10,21 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-* 🎓 BCA student focused on **Artificial Intelligence & Machine Learning**
-* 🤖 Currently building my skills in **Machine Learning, Python & AI**
-* 🌱 Learning through hands-on projects and structured AI/ML coursework
-* 💻 Experience with **Python, C, C++, Java, JavaScript & SQL**
-* 🔍 Interested in **AI/ML Engineering, NLP and intelligent applications**
-* 🚀 Currently working toward becoming an **AI/ML Engineer**
+I'm an aspiring **AI/ML Engineer** focused on building strong foundations in machine learning and developing practical AI applications.
+
+* 🤖 Currently learning **Artificial Intelligence & Machine Learning**
+* 🐍 Working primarily with **Python**
+* 🧠 Exploring **Machine Learning, NLP and AI**
+* 🚀 Building projects to strengthen my practical skills
+* 🎯 Interested in **AI/ML Engineering and intelligent applications**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Technologies
 
-### 🤖 AI / Machine Learning
+### AI / Machine Learning
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python"/>
@@ -32,7 +33,7 @@
   <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="45" height="45" alt="PyTorch"/>
 </p>
 
-### 💻 Programming
+### Programming
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="45" height="45" alt="C"/>
@@ -41,42 +42,26 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript"/>
 </p>
 
-### 🌐 Web & Other Tools
+### Data & Development
 
 <p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" alt="MySQL"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="45" height="45" alt="HTML5"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="45" height="45" alt="CSS3"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="45" height="45" alt=".NET"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="45" height="45" alt="Android"/>
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## 📈 Currently Learning
 
-### 📧 Spam Email/SMS Detector
+**Artificial Intelligence & Machine Learning**
 
-Machine learning project that classifies messages as **Spam or Legitimate** using Python and Scikit-learn.
-
-**Tech:** Python • Scikit-learn • NLP • Text Preprocessing
-
-### 🤖 University Enquiry Chatbot
-
-Python-based chatbot designed to answer common university-related queries including admissions, courses, fees, library and hostel information.
-
-**Tech:** Python • Rule-Based NLP • Chatbot Development
-
-### 🛒 E-Commerce Website
-
-A frontend e-commerce project featuring product browsing, cart functionality and multiple website sections.
-
-**Tech:** HTML • CSS • JavaScript
-
-### 📚 Student Record Management System
-
-Console-based student management system supporting adding, viewing, searching, updating and deleting student records.
-
-**Tech:** C • File Handling • Data Management
+* Machine Learning fundamentals
+* Supervised & Unsupervised Learning
+* Feature Engineering
+* Model Evaluation
+* Natural Language Processing
+* Deep Learning
 
 ---
 
@@ -93,7 +78,7 @@ Console-based student management system supporting adding, viewing, searching, u
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Connect
 
 <p>
   <a href="https://linkedin.com/in/keshavmalikk">
@@ -104,8 +89,6 @@ Console-based student management system supporting adding, viewing, searching, u
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>Learning → Building → Improving → Repeating</i>
+  <i>Learning AI. Building with Python. Growing every day.</i>
 </p>
