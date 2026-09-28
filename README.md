@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Keshav Malik</h1>
 
-<h3 align="center">Aspiring AI/ML Engineer | Python | Machine Learning</h3>
+<h3 align="center">AI/ML Engineer | Python | Machine Learning</h3>
 
 <p align="center">
   <a href="https://github.com/keshavmalik999">
